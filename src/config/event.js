@@ -56,8 +56,8 @@ export const event = {
 
   location: {
     name: "Huisache 331",
-    address: "Huisache 331, Rincón de Huinala, 66644 Cdad. Apodaca, N.L.",
-    mapsQuery: "Huisache 331, Rincón de Huinala, 66644 Cdad. Apodaca, N.L.",
+    address: "Antártida",
+    mapsQuery: "Antártida",
   },
 
   rsvp: {
